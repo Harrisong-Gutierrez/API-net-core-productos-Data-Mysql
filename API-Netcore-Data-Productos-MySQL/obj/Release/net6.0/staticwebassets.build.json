@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "16it2LCa29pVGKYlHm14rhN2QzYsdQ9snZs/w0O8rAI=",
+  "Source": "API-Netcore-Data-Productos-MySQL",
+  "BasePath": "_content/API-Netcore-Data-Productos-MySQL",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
